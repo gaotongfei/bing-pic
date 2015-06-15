@@ -1,4 +1,4 @@
-# get-bing-pictures-of-the-day
+# get-bing-pictures
 
 ## How to use it?
 
