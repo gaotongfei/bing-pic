@@ -14,6 +14,12 @@ Run `python3 crawler.py`
 
 You can find the image in the dictory `bing_image`
 
-## Todo
+## Want to use the picture as your website's background?
 
-* create an API
+use this css code
+
+```
+body {
+    background-image: url("http://bimage.gaotongfei.com/bing-image");
+}
+```
