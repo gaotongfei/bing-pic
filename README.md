@@ -2,23 +2,23 @@
 
 ## How to use it?
 
-You just clone this repo
+You just clone this repo.
 
 `git clone https://github.com/gaotongfei/get-bing-pictures-of-the-day.git`
 
-Then install the requirements
+Then install the requirements.
 
 `pip install -r requirements.txt`
 
-Run `python3 crawler.py`
+Run `python3 crawler.py`.
 
-You can find the image in the dictory `bing_image`
+You can find the image in the dictory `bing_image`.
 
 ## How to download the pic daily?
 
 Learn more about [`crontab`][1]
 
-## Use the picture as the background of your sites
+## Use the picture as the background of your sites.
 
 just add this css code into your css file.
 
